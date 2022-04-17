@@ -10,6 +10,7 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.config.ReactFeatureFlags;
 import com.facebook.soloader.SoLoader;
 import com.linkbird.newarchitecture.MainApplicationReactNativeHost;
+import com.meedan.ShareMenuPackage;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
